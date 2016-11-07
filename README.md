@@ -1,7 +1,13 @@
 # selfhosted
 Self-Hosted Services and Stuff I like
 
-Self-Hosted List on Github: https://github.com/Kickball/awesome-selfhosted#communication-systems
+Self-Hosted List on Github: https://github.com/Kickball/awesome-selfhosted
+
+
+
+
+Communication and Chat
+https://github.com/mattermost/platform
 
 Kanban Boards - (Trello)
 http://getsoloapp.com/
@@ -11,6 +17,8 @@ https://www.humhub.org/de
 
 Data Storage and Sync
 https://cozy.io/en/
+https://www.seafile.com/en/home/
+https://nextcloud.com/
 
 Photo Management
 http://lychee.electerious.com/
