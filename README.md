@@ -1,7 +1,7 @@
 # selfhosted
-Self-Hosted Services and Stuff I like
+###Self-Hosted Services and Stuff I like
 
-Self-Hosted List on Github: https://github.com/Kickball/awesome-selfhosted
+####Self-Hosted List on Github: https://github.com/Kickball/awesome-selfhosted
 
 
 
